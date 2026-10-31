@@ -16,7 +16,7 @@ Los siete módulos están dentro del mismo archivo. Para usarlos, se abre el pro
 
 ## Archivos
 
-- `gemini-code-1793460741809(1).py`: contiene todo el código de los siete módulos.
+- `Codigos matematica discreta.py`: contiene todo el código de los siete módulos.
 - `README.md`: explica de qué trata el proyecto y cómo abrirlo.
 
 ## Lo que necesitás
@@ -35,13 +35,13 @@ El código usa bibliotecas de Python; no necesita paquetes externos de pip.
 4. Ejecutá:
 
 ```bash
-python "gemini-code-1793460741809(1).py"
+python "Codigos matematica discreta.py"
 ```
 
 En Windows también podés probar:
 
 ```bash
-py "gemini-code-1793460741809(1).py"
+py "Codigos matematica discreta.py"
 ```
 
 Si tu sistema usa el comando `python3`, usalo en lugar de `python`.
